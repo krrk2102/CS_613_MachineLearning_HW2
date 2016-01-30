@@ -1,0 +1,10 @@
+This is homework 2 for CS 613, by Shangqi Wu.
+
+sw843_HW2_Theory.pdf contains solutions to theory problems, p1 to p10. p11.m, p11c.m, p12.m are programs to problem 11 (part a & b), 11 (part c) and 12 respectively. arffread.m contains the function for reading arff file into programs. 
+
+For 3 programs:
+i. All of them fulfill requirements described in homework instruction.
+ii. All of them are written by Matlab 2015b, on OS X 10.11
+iii. Run with Matlab 2015b
+iv. Open p11.m, p11c.m, p12.m and run them with Matlab 2015b in order.
+v. Please make sure the spambase.arff, arffread.m are under the same directory with *.m files.
